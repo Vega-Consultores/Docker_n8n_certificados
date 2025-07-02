@@ -1,0 +1,13 @@
+[
+  {
+    "pattern": "https://pasarela.clave.gob.es/Proxy2/ServiceRedirect*",
+    "filter": {
+      "ISSUER": {
+        "CN": "AC Representación",
+        "OU": "CERES",
+        "O": "FNMT-RCM",
+        "C": "ES"
+      }
+    }
+  }
+]
